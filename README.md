@@ -7,13 +7,13 @@ This is a React app that lets you view and sort employees!
 
 ## Installation
 
-In order to install this project follow the Github link to https://github.com/kacox1251/unit12-employeetracker and fork the project. After that clone the repository through your Git Bash. To do that type 'git clone" and paste the HTML link inside your terminal, it will ask you for your github password. After the repository is saved in the directory of your choice you can access the files and interact with them.
-You can also download as a zip file by clicking "Download zip" in the "Clone or Download" dropdown. The application is deployed on
+In order to install this project follow the Github link to https://github.com/kacox1251/employee-directory and fork the project. After that clone the repository through your Git Bash. To do that type 'git clone" and paste the HTML link inside your terminal, it will ask you for your github password. After the repository is saved in the directory of your choice you can access the files and interact with them.
+You can also download as a zip file by clicking "Download zip" in the "Clone or Download" dropdown. The application is deployed at 
 
 
 ## Usage
 
-When the page loads you will see a table that has employees and employee information displayed. There are 2 buttons, one is to sort all employees alphabetically and one to filter employees by birth date.
+When the page loads you will see a table that has employees and employee information displayed. There are 2 buttons, one is to sort all employees alphabetically and one to filter employees who were born after 1990.
 
 
 ## Credits
